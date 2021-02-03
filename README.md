@@ -23,4 +23,5 @@ More details about the dataset, including algorithms that have been tried on it 
 1.  Attempt 1
     - SCORE: 0.98392
     - Used a 5 layer CNN architecture, written in Keras
-    - Score can be improved by Data Augmentation and using a different architecture
+    - Score can be improved through data augmentation and by using a different architecture
+
